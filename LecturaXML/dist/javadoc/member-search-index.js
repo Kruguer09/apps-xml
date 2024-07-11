@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"lecturaxml","c":"LecturaXML","l":"LecturaXML()","u":"%3Cinit%3E()"},{"p":"lecturaxml","c":"LecturaXML","l":"main(String[])","u":"main(java.lang.String[])"}];updateSearchResults();

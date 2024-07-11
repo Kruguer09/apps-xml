@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<libros editorial ="paraninfo">
+    <libro id="1" digital="false" papel="true">
+        <titulo>SISTEMAS DE GESTIÓN EMPRESARIAL</titulo>
+    </libro>
+    <!--Esto es comentario-->
+    <libro id="2" digital="true" papel="true">
+        <titulo>ACCESO A DATOS</titulo>
+    </libro>
+    <libro id="3" digital="false" papel="true">
+        <titulo>PROGRAMACIÓN MULTIMEDIA Y DISPOSITIVOS MÓVILES</titulo>
+    </libro>
+    <libro id="4" digital="true" papel="true">
+        <titulo>DESARROLLO DE INTERFACES</titulo>
+    </libro>
+    <libro id="5" digital="false" papel="true">
+        <titulo>FORMACIÓN Y ORIENTACIÓN LABORAL</titulo>
+    </libro>
+    <libro id="6" digital="true" papel="true">
+        <titulo>PROGRAMACIÓN DE SERVICIOS Y PROCESOS</titulo>
+    </libro>
+</libros>
+

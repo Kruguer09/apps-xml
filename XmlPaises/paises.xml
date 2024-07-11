@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Continente name="Europa">
+    <pais name="spain" capital="madrid">
+        <comunidad name="Andalucia">
+            <provincia>Córdoba</provincia>
+            <provincia>Jaen</provincia>
+            <provincia>Sevilla</provincia>
+            <provincia>Huelva</provincia>
+            <provincia>Málaga</provincia>
+            <provincia>Cádiz</provincia>
+            <provincia>Almería</provincia>
+            <provincia>Granada</provincia>
+        </comunidad>
+    </pais>
+    <pais name="portugal" capital="lisboa">
+        <comunidad name="setubal">
+            <provincia>Alcochete</provincia>
+            <provincia>Almada</provincia>
+            <provincia>Moita</provincia>
+            <provincia>Barreiro</provincia>
+            <provincia>Sines</provincia>
+            <provincia>Sesimbra</provincia>
+        </comunidad>
+        <comunidad name="Leiria">
+            <provincia>Alcobaza</provincia>
+            <provincia>Batala</provincia>
+            <provincia>Bombarral</provincia>
+            <provincia>Óbidos</provincia>
+            <provincia>Peniche</provincia>
+        </comunidad>
+    </pais>
+    <pais name="france" capital="paris">
+        <comunidad name="Nueva Aquitania">
+        </comunidad>
+        <comunidad name="Burdeos">
+        </comunidad>
+        <comunidad name="Lion">
+        </comunidad>
+        <comunidad name="Orleans">
+        </comunidad>
+    </pais>
+</Continente>
